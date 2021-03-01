@@ -1,2 +1,4 @@
 # ft_printf
-Because i'm tired of using putnbr and putstr, made at 42.
+<img src ="https://img.shields.io/badge/Result-100%2F100-green"/>
+
+A recreation of the printf C function made at 42.
