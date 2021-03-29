@@ -4,4 +4,10 @@
 A recreation of the printf C function made at 42.
 
 Conversions:ncspdiuxX%
+
 Flags:-.0*
+
+# Usage
+<code>make</code> to generate the library.
+
+<code>gcc -w yourfiles -L. -lftprintf</code> to compile.
